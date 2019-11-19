@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Istudent } from 'src/app/Interfaces/students.interface';
-import { apiResponse } from 'src/app/api/characters.api';
+import { apiResponse } from 'src/app/api/students.api';
 
 @Component({
   selector: 'app-students',
